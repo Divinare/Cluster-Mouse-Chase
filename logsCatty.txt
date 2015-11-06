@@ -1,0 +1,54 @@
+Catty at ukko064 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko064 Catty ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty
+Catty at ukko067 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko067 Catty ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty
+Catty at ukko046 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko046 Catty ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty
+Catty at ukko076 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko076 Catty ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty
+Catty at ukko078 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+Catty at ukko074 with command A in path /cs/fs/home/joeniemi/Distsys
+mouse pid:  32204
+length:  5
+Attacking mouse!
+Caught mouse! Sending information to listy.
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+mouse not found, doing actions..
+Did not found a mouse!
+ukko078 Catty ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty
+Exiting from cat Catty
+Catty at ukko074 with command A in path /cs/fs/home/joeniemi/Distsys
+mouse pid:  32204
+length:  5
+Attacking mouse!
+Caught mouse! Sending information to listy.
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Catty

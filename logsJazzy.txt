@@ -1,0 +1,23 @@
+Jazzy at ukko066 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko066 Jazzy ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Jazzy
+Jazzy at ukko057 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid: 
+length:  0
+mouse not found, doing actions..
+Did not found a mouse!
+ukko057 Jazzy ukko064.hpc.cs.helsinki.fi 61341
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Jazzy
+Jazzy at ukko074 with command S in path /cs/fs/home/joeniemi/Distsys
+mouse pid:  32204
+length:  5
+mouse found, doing actions..
+Mouse found from ukko074!
+Sending information to listy in location ukko064.hpc.cs.helsinki.fi at port 61341
+Exiting from cat Jazzy

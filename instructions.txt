@@ -1,0 +1,25 @@
+Before running the program, make sure that all of the script processes are killed by running
+./killProcesses.sh
+
+The program starts by running
+./start.sh
+
+Execution process:
+
+start.sh sends mouse to a random location and sends listy to listy_location and starts cordy at localhost.
+
+Cordy starts with sending Catty and Jazzy to nodes in ukkonodes file, starting from the beginning of ukkonodes file.
+Then Cordy starts to wait for listy to write commands in cmsg.
+Cats report of their situation to the cmsg.
+Cordy gives commands so that if the mouse is not found, it puts a cat into the next node in ukkonodes file.
+If a command is empty, it means that all of the ukkonodes have been visited. Cordy will put a cat to the first ukkonode just to do something.
+If a mouse is found, Cordy puts the other mouse to the place where the mouse was found.
+When both cats have found the mouse, Cordy gives attack command to one of the cats.
+Attacking cat sends MEOW message to the mouse and the mouse sends SIGNINT to the cat.
+
+
+
+
+
+
+
